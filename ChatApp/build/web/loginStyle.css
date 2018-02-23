@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 23, 2018, 2:27:05 PM
+    Author     : Passant
+*/
+
+body{
+    background-color: #E3BAB3;
+}
+
+#loginPage{
+    margin-top: 2%;
+    background-color: #E9DCCD;
+    width: 35%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 7%;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+
+#username{
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-color: #849974;
+}
+
+#password{
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-color: #849974;
+}
+
+#loginBtn{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 50%;
+    width: 20%;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #36384C;
+    border-radius: 15px;
+}
+
+#signUpText{
+    font-weight: bold;  
+}
+
+.texts{
+    text-align: left;
+    margin-left: 15%;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}

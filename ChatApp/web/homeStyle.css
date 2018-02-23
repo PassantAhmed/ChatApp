@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 23, 2018, 2:27:05 PM
+    Author     : Passant
+*/
+
+body{
+    background-color: #E3BAB3;
+}
+
+#loginPage{
+    margin-top: 2%;
+    background-color: #E9DCCD;
+    width: 35%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 7%;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+
+#username{
+    padding: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-color: #849974;
+}
+
+#message{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-color: #849974;
+}
+
+#sendMessageBtn{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    width: 10%;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #36384C;
+    border-radius: 15px;
+}
+
+#friendsPage{
+    background-color: #E9DCCD;
+    border-radius: 20px;
+    float: right;
+    width: 30%;
+    margin: 10px;
+    color: #36384C;
+    word-wrap:break-word; 
+}
+
+#messagesPage{
+    background-color: #E9DCCD;
+    border-radius: 20px;
+    width: 45%;
+    margin: 30px;
+    color: #36384C;
+    word-wrap:break-word; 
+}
